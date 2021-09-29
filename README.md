@@ -1,15 +1,19 @@
 # Multi-step Signup Form
 
-* This project creates a multi-step signup form. Users need to enter their personal details, confirm and submit to finish sign-up. 
+* This project creates a multi-step signup form. Users need to enter their personal details, confirm and submit to finish sign-up. All the data will be saved in the state.
 * The project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 * The project is published at [Multi-step Signup Form](https://xinwend.github.io/multi-step-signup-form/).
 
 ## Intro
 
 The form contains four steps: 
+
 1️⃣ Enter user's details: First Name, Last Name, Age;
+
 2️⃣ Enter personal details:  Occupation, City, Biography;
+
 3️⃣ Confirm the info the user entered;
+
 4️⃣ Submission success.
 
 Uses latest Material UI library `@mui/material` with components `AppBar`, `TextField`, `Typography`, `List/ListItem`, `Box` and so on.
@@ -43,13 +47,18 @@ Uses latest Material UI library `@mui/material` with components `AppBar`, `TextF
 
   - Thank-you page & other customized reminder information.
 
-![Image of transaction history](https://github.com/XinwenD/expense-tracker/blob/9106d8748e6d32afd670fd18cedc84000a64087d/imgs/transactionlist.PNG)
+![Image of page1](https://github.com/XinwenD/multi-step-signup-form/blob/b782eb3f2ee470794eaa5be8939a59f0e466c64f/imgs/p1.PNG)
+![Image of page1-state](https://github.com/XinwenD/multi-step-signup-form/blob/b782eb3f2ee470794eaa5be8939a59f0e466c64f/imgs/p1state.PNG)
 
+![Image of page2](https://github.com/XinwenD/multi-step-signup-form/blob/b782eb3f2ee470794eaa5be8939a59f0e466c64f/imgs/p2.PNG)
+![Image of page2-state](https://github.com/XinwenD/multi-step-signup-form/blob/b782eb3f2ee470794eaa5be8939a59f0e466c64f/imgs/p2state.PNG)
 
+![Image of page3](https://github.com/XinwenD/multi-step-signup-form/blob/b782eb3f2ee470794eaa5be8939a59f0e466c64f/imgs/p3.PNG)
+![Image of page3-state](https://github.com/XinwenD/multi-step-signup-form/blob/b782eb3f2ee470794eaa5be8939a59f0e466c64f/imgs/p3state.PNG)
 
-![Image of addtransaction](https://github.com/XinwenD/expense-tracker/blob/0aae7f37cf1be7331c55cdfb678e2669ce43a960/imgs/addtransaction.PNG)
+![Image of page4](https://github.com/XinwenD/multi-step-signup-form/blob/b782eb3f2ee470794eaa5be8939a59f0e466c64f/imgs/p4.PNG)
+![Image of page4-state](https://github.com/XinwenD/multi-step-signup-form/blob/b782eb3f2ee470794eaa5be8939a59f0e466c64f/imgs/p4state.PNG)
 
-![Image of header-balance](https://github.com/XinwenD/expense-tracker/blob/9106d8748e6d32afd670fd18cedc84000a64087d/imgs/header-balance.PNG)
 
 
 ### Code Build
