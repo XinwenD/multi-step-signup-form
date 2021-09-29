@@ -3,7 +3,7 @@
 * This project creates a multi-step signup form. Users need to enter their personal details, confirm and submit to finish sign-up. All the data will be saved in the state.
 * The project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### The project is published at [Multi-step Signup Form](https://xinwend.github.io/multi-step-signup-form/).
+### The project is published at [View Multi-step Signup Form](https://xinwend.github.io/multi-step-signup-form/).
 
 ## Intro
 
